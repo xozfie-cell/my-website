@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f3f4f6;
+  text-align: center;
+  color: #333;
+}
+
+h1 {
+  color: #2563eb;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  background-color: #2563eb;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
