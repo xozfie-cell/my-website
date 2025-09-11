@@ -6,7 +6,7 @@ function flirting() {
   alert("Coba salto!");
 }
 
-body { height: 100%;  orgin: 0; }
+{ height: 100%;  orgin: 0; }
 body {
   font-family: Arial, sans-serif;
   background: linear-gradient(135deg, #ff7e5f, #feb47b);
