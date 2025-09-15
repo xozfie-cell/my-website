@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: Comic-sans, sans-serif;
   background-color: #f3f4f6;
   margin: 0;
   padding: 0;
@@ -8,8 +8,8 @@ body {
 
 body { height: 100%;  orgin: 0; }
 body {
-  font-family: Arial, sans-serif;
-  background: linear-gradient(135deg, #ff7e5f, #feb47b);
+  font-family: Comic-sans, sans-serif;
+  background: linear-gradient(135deg, #40516c, #212833);
   color: #111;
   display: flex;
   align-items: center;
@@ -18,14 +18,14 @@ body {
 }
 
 header {
-  background-color: #2563eb;
+  background-color: #3a5287;
   color: white;
   padding: 40px 20px;
 }
 
 button {
   background: white;
-  color: #2563eb;
+  color: #2c4b59;
   border: none;
   padding: 12px 24px;
   border-radius: 8px;
@@ -35,12 +35,12 @@ button {
 }
 
 button:hover {
-  background: #1e40af;
+  background: #082840;
   color: white;
 }
 
 footer {
-  background: #e5e7eb;
+  background: #242e42;
   padding: 10px;
   margin-top: 40px;
 }
